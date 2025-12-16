@@ -19,7 +19,7 @@ To gain hands-on experience in building scalable, real-world data pipelines and 
 - Airflow (Workflow Orchestration)
 - Cloud Fundamentals (GCP/AWS)
 
-📅 ## Day 1 – SQL Basics
+ ## Day 1 – SQL Basics
 
 Today, I revised and practiced fundamental SQL commands essential for data engineering and analytics.
 
@@ -45,7 +45,7 @@ LIKE – search data using patterns
 
 These commands form the foundation for querying, filtering, and analyzing structured data, which is crucial for building reliable data pipelines.
 
-📅 ## Day 2 – SQL Data Retrieval
+## Day 2 – SQL Data Retrieval
 
 Focused on retrieving data efficiently from both single and multiple tables using SQL.
 
