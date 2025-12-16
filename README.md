@@ -23,8 +23,7 @@ To gain hands-on experience in building scalable, real-world data pipelines and 
 
 Today, I revised and practiced fundamental SQL commands essential for data engineering and analytics.
 
-🔹 Topics Covered
-
+🔹 Topics Covered.
 SELECT – retrieve data from tables
 
 * – select all columns
