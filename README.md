@@ -75,3 +75,35 @@ Understanding table relationships using primary & foreign keys
 
 Learned how to combine data from multiple tables to generate meaningful insights—an essential skill for real-world data engineering pipelines.
 
+## Day 3 – Complex Queries & Database Management
+
+Worked on writing advanced SQL queries and performing database creation and update operations.
+
+🔹 Topics Covered
+1️⃣ Complex SQL Queries
+
+Subqueries
+
+Nested queries
+
+Using multiple conditions
+
+Combining joins with aggregations
+
+2️⃣ Database Creation & Updates
+
+CREATE DATABASE
+
+CREATE TABLE
+
+INSERT INTO
+
+UPDATE
+
+DELETE
+
+ALTER TABLE
+
+🔹 Key Learning
+
+Complex queries help extract meaningful insights from large datasets, while database creation and update operations are essential for managing data in production environments.
